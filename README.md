@@ -44,3 +44,6 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+<a href="https://snyk.io/test/github/jcbetancourt/one-click-hugo-cms?targetFile=package.json"><img src="https://snyk.io/test/github/jcbetancourt/one-click-hugo-cms/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/jcbetancourt/one-click-hugo-cms?targetFile=package.json" style="max-width:100%;"></a>
+
+[![Known Vulnerabilities](https://snyk.io/test/github/jcbetancourt/one-click-hugo-cms/badge.svg?targetFile=package.json)](https://snyk.io/test/github/jcbetancourt/one-click-hugo-cms?targetFile=package.json)
